@@ -1,0 +1,965 @@
+[14-Feb-2024 09:50:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/websuppo/public_html/payment/db_connection.php on line 9
+[14-Feb-2024 09:50:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/websuppo/public_html/payment/db_connection.php on line 9
+[14-Feb-2024 09:50:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/websuppo/public_html/payment/db_connection.php on line 9
+[14-Feb-2024 10:10:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/websuppo/public_html/payment/db_connection.php on line 9
+[14-Feb-2024 10:10:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/websuppo/public_html/payment/db_connection.php on line 9
+[14-Feb-2024 10:10:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/websuppo/public_html/payment/db_connection.php on line 9
+[14-Feb-2024 15:45:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/websuppo/public_html/payment/db_connection.php on line 9
+[14-Feb-2024 18:04:57 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/payment/checkout_ajax.php on line 13
+[15-Feb-2024 04:34:51 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/payment/checkout_ajax.php on line 13
+[15-Feb-2024 04:35:01 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/payment/checkout_ajax.php on line 13
+[04-Aug-2024 18:14:26 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/checkout_ajax.php on line 18
+[04-Aug-2024 18:14:26 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/checkout_ajax.php on line 19
+[04-Aug-2024 18:14:26 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/checkout_ajax.php on line 20
+[04-Aug-2024 18:14:26 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[04-Aug-2024 18:15:20 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/checkout_ajax.php on line 18
+[04-Aug-2024 18:15:20 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/checkout_ajax.php on line 19
+[04-Aug-2024 18:15:20 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/checkout_ajax.php on line 20
+[04-Aug-2024 18:15:20 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[04-Aug-2024 18:18:28 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/checkout_ajax.php on line 18
+[04-Aug-2024 18:18:28 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/checkout_ajax.php on line 19
+[04-Aug-2024 18:18:28 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/checkout_ajax.php on line 20
+[04-Aug-2024 18:18:28 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[04-Aug-2024 18:30:19 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[04-Aug-2024 18:30:19 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[04-Aug-2024 18:30:19 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/OrderTransaction.php on line 14
+[04-Aug-2024 18:30:19 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/payment/OrderTransaction.php on line 15
+[04-Aug-2024 18:30:19 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/OrderTransaction.php on line 17
+[04-Aug-2024 18:37:30 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[04-Aug-2024 18:37:40 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[04-Aug-2024 18:42:26 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[04-Aug-2024 18:42:26 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[04-Aug-2024 18:42:26 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/OrderTransaction.php on line 14
+[04-Aug-2024 18:42:26 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/payment/OrderTransaction.php on line 15
+[04-Aug-2024 18:42:26 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/OrderTransaction.php on line 17
+[05-Aug-2024 03:02:57 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[05-Aug-2024 03:02:57 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[05-Aug-2024 03:02:57 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/OrderTransaction.php on line 14
+[05-Aug-2024 03:02:57 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/payment/OrderTransaction.php on line 15
+[05-Aug-2024 03:02:57 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/OrderTransaction.php on line 17
+[05-Aug-2024 03:16:36 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[05-Aug-2024 03:16:36 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[05-Aug-2024 03:16:36 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/OrderTransaction.php on line 14
+[05-Aug-2024 03:16:36 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/payment/OrderTransaction.php on line 15
+[05-Aug-2024 03:16:36 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/OrderTransaction.php on line 17
+[05-Aug-2024 03:32:59 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[05-Aug-2024 03:32:59 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[05-Aug-2024 03:32:59 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/OrderTransaction.php on line 14
+[05-Aug-2024 03:32:59 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/payment/OrderTransaction.php on line 15
+[05-Aug-2024 03:32:59 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/OrderTransaction.php on line 17
+[05-Aug-2024 04:13:03 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[05-Aug-2024 04:13:03 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[05-Aug-2024 04:13:03 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/OrderTransaction.php on line 14
+[05-Aug-2024 04:13:03 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/payment/OrderTransaction.php on line 15
+[05-Aug-2024 04:13:03 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/OrderTransaction.php on line 17
+[05-Aug-2024 04:13:07 UTC] PHP Notice:  Undefined index: stundet_mobile in /home/websuppo/public_html/payment/checkout_ajax.php on line 26
+[05-Aug-2024 04:13:07 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[05-Aug-2024 04:13:07 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/payment/OrderTransaction.php on line 14
+[05-Aug-2024 04:13:07 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/payment/OrderTransaction.php on line 15
+[05-Aug-2024 04:13:07 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/payment/OrderTransaction.php on line 17
+[05-Aug-2024 08:34:48 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[05-Aug-2024 08:34:48 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[05-Aug-2024 08:34:48 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[05-Aug-2024 08:34:48 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[05-Aug-2024 08:34:48 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[05-Aug-2024 08:42:33 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[05-Aug-2024 08:42:33 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[05-Aug-2024 08:42:33 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[05-Aug-2024 08:42:33 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[05-Aug-2024 08:42:33 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[05-Aug-2024 14:38:55 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[05-Aug-2024 14:38:55 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[05-Aug-2024 14:38:55 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[05-Aug-2024 14:38:55 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[05-Aug-2024 14:38:55 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[05-Aug-2024 14:42:11 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/payment/checkout_ajax.php on line 12
+[05-Aug-2024 14:42:11 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[05-Aug-2024 14:42:11 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[05-Aug-2024 14:42:11 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[05-Aug-2024 14:42:11 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[05-Aug-2024 14:42:11 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[05-Aug-2024 14:42:18 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/payment/checkout_ajax.php on line 12
+[05-Aug-2024 14:42:18 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[05-Aug-2024 14:42:18 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[05-Aug-2024 14:42:18 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[05-Aug-2024 14:42:18 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[05-Aug-2024 14:42:18 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[05-Aug-2024 14:43:18 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[05-Aug-2024 14:43:18 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[05-Aug-2024 14:43:18 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[05-Aug-2024 14:43:18 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[05-Aug-2024 14:43:18 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[05-Aug-2024 14:43:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/websuppo/public_html/payment/checkout_ajax.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websuppo/public_html/payment/checkout_ajax.php on line 12
+[05-Aug-2024 14:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/websuppo/public_html/payment/checkout_ajax.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websuppo/public_html/payment/checkout_ajax.php on line 12
+[05-Aug-2024 14:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/websuppo/public_html/payment/checkout_ajax.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websuppo/public_html/payment/checkout_ajax.php on line 12
+[05-Aug-2024 14:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/websuppo/public_html/payment/checkout_ajax.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websuppo/public_html/payment/checkout_ajax.php on line 12
+[05-Aug-2024 14:45:06 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[05-Aug-2024 14:45:06 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[05-Aug-2024 14:45:06 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[05-Aug-2024 14:45:06 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[05-Aug-2024 14:45:06 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[05-Aug-2024 14:47:21 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[05-Aug-2024 14:47:21 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[05-Aug-2024 14:47:21 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[05-Aug-2024 14:47:21 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[05-Aug-2024 14:47:21 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[05-Aug-2024 14:47:21 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[05-Aug-2024 17:30:12 UTC] PHP Notice:  Undefined index: name in /home/websuppo/public_html/payment/checkout_ajax.php on line 18
+[05-Aug-2024 17:30:12 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[05-Aug-2024 17:30:12 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[05-Aug-2024 17:30:12 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[05-Aug-2024 17:30:12 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[05-Aug-2024 17:30:12 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[05-Aug-2024 17:30:12 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 07:39:32 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[06-Aug-2024 07:39:32 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 07:39:32 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 07:39:32 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 07:39:32 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 07:39:32 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 16:04:03 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[06-Aug-2024 16:04:03 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 16:04:03 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 16:04:03 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 16:04:03 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 16:04:03 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 16:11:26 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[06-Aug-2024 16:11:26 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 16:11:26 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 16:11:26 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 16:11:26 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 16:11:26 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 16:43:10 UTC] PHP Notice:  Undefined index: name in /home/websuppo/public_html/payment/checkout_ajax.php on line 18
+[06-Aug-2024 16:43:10 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[06-Aug-2024 16:43:10 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 16:43:10 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 16:43:10 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 16:43:10 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 16:43:10 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 16:44:19 UTC] PHP Notice:  Undefined index: name in /home/websuppo/public_html/payment/checkout_ajax.php on line 18
+[06-Aug-2024 16:44:19 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[06-Aug-2024 16:44:19 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 16:44:19 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 16:44:19 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 16:44:19 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 16:44:19 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 16:46:49 UTC] PHP Notice:  Undefined index: name in /home/websuppo/public_html/payment/checkout_ajax.php on line 18
+[06-Aug-2024 16:46:49 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[06-Aug-2024 16:46:49 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 16:46:49 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 16:46:49 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 16:46:49 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 16:46:49 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 16:47:57 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[06-Aug-2024 16:47:57 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 16:47:57 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 16:47:57 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 16:47:57 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 16:47:57 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 16:50:15 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[06-Aug-2024 16:50:15 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 16:50:15 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 16:50:15 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 16:50:15 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 16:50:15 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 16:54:01 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/OrderTransaction.php on line 13
+[06-Aug-2024 16:54:01 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 16:54:01 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 16:54:01 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 16:54:01 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 16:54:01 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[06-Aug-2024 16:56:23 UTC] PHP Notice:  Undefined index: cus_name in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 391
+[06-Aug-2024 16:56:23 UTC] PHP Notice:  Undefined index: cus_email in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 392
+[06-Aug-2024 16:56:23 UTC] PHP Notice:  Undefined index: cus_add1 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 393
+[06-Aug-2024 16:56:23 UTC] PHP Notice:  Undefined index: cus_add2 in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 394
+[06-Aug-2024 16:56:23 UTC] PHP Notice:  Undefined index: cus_phone in /home/websuppo/public_html/payment/lib/SslCommerzNotification.php on line 399
+[07-Aug-2024 11:10:28 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 11:10:28 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 11:10:28 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 15:36:32 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 15:36:32 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 15:36:32 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 16:20:43 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 16:20:43 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 16:20:43 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 16:35:54 UTC] PHP Warning:  A non-numeric value encountered in /home/websuppo/public_html/subscription/checkout_ajax.php on line 17
+[07-Aug-2024 16:35:54 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 16:35:54 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 16:35:54 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 16:41:01 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 16:41:01 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 16:41:01 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 16:48:29 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 16:48:29 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 16:48:29 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 16:50:54 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 16:50:54 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 16:50:54 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 17:35:04 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/websuppo/public_html/subscription/checkout_ajax.php on line 17
+[07-Aug-2024 17:35:04 UTC] PHP Warning:  A non-numeric value encountered in /home/websuppo/public_html/subscription/checkout_ajax.php on line 17
+[07-Aug-2024 17:35:04 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 17:35:04 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 17:35:04 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 17:35:56 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 17:35:56 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 17:35:56 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 17:37:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/websuppo/public_html/subscription/checkout_ajax.php on line 17
+[07-Aug-2024 17:38:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/websuppo/public_html/subscription/checkout_ajax.php on line 17
+[07-Aug-2024 17:38:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/websuppo/public_html/subscription/checkout_ajax.php on line 17
+[07-Aug-2024 17:39:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/websuppo/public_html/subscription/checkout_ajax.php on line 17
+[07-Aug-2024 17:39:30 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 17:39:30 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 17:39:30 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 17:46:32 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 17:46:32 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 17:46:32 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[07-Aug-2024 17:51:47 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[07-Aug-2024 17:51:47 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[07-Aug-2024 17:51:47 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[08-Aug-2024 12:17:51 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 13
+[08-Aug-2024 12:17:51 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/websuppo/public_html/subscription/index.php on line 17
+[08-Aug-2024 14:22:41 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 13
+[08-Aug-2024 14:22:41 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/websuppo/public_html/subscription/index.php on line 17
+[08-Aug-2024 14:24:11 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:24:22 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:24:38 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:24:45 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:25:07 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:25:28 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:25:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/websuppo/public_html/subscription/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 14:25:33 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:25:33 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/websuppo/public_html/subscription/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 14:25:46 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:26:14 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:26:14 UTC] PHP Notice:  Undefined property: stdClass::$AdmissionFormNo in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 14:26:39 UTC] PHP Notice:  Undefined property: stdClass::$data in /home/websuppo/public_html/subscription/index.php on line 9
+[08-Aug-2024 14:26:39 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 16:21:27 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 10
+[08-Aug-2024 16:21:27 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 13
+[08-Aug-2024 16:33:14 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/2024080555): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 10
+[08-Aug-2024 16:33:14 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 13
+[08-Aug-2024 16:33:14 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 85
+[08-Aug-2024 16:33:14 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 90
+[08-Aug-2024 16:33:14 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 98
+[08-Aug-2024 16:33:14 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 103
+[08-Aug-2024 16:33:14 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 110
+[08-Aug-2024 16:33:14 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 115
+[08-Aug-2024 16:33:14 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 122
+[08-Aug-2024 16:33:14 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 127
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 85
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 85
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 90
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 90
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 98
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 98
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 103
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 103
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 110
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 110
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 115
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 115
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 122
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 122
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 127
+[08-Aug-2024 16:34:03 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 127
+[08-Aug-2024 16:34:16 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/2022069133): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 10
+[08-Aug-2024 16:34:16 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 13
+[08-Aug-2024 16:34:16 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 85
+[08-Aug-2024 16:34:16 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 90
+[08-Aug-2024 16:34:16 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 98
+[08-Aug-2024 16:34:16 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 103
+[08-Aug-2024 16:34:16 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 110
+[08-Aug-2024 16:34:16 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 115
+[08-Aug-2024 16:34:16 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 122
+[08-Aug-2024 16:34:16 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 127
+[08-Aug-2024 18:05:43 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 160
+[08-Aug-2024 18:05:43 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 160
+[08-Aug-2024 18:07:57 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/websuppo/public_html/subscription/index.php on line 160
+[08-Aug-2024 18:08:00 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/websuppo/public_html/subscription/index.php on line 160
+[08-Aug-2024 18:22:57 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 104
+[08-Aug-2024 18:23:32 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/15415): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:23:32 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:24:21 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/15415): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:24:21 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:24:25 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/15415): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:24:25 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:24:31 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/15415): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:24:31 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:25:12 UTC] PHP Notice:  Undefined variable: response_data in /home/websuppo/public_html/subscription/index.php on line 104
+[08-Aug-2024 18:25:40 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:25:40 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:25:50 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/336699): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:25:50 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:26:19 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/336699): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:26:19 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:31:49 UTC] PHP Notice:  Undefined variable: response_data in /home/websuppo/public_html/subscription/index.php on line 104
+[08-Aug-2024 18:31:54 UTC] PHP Notice:  Undefined variable: response_data in /home/websuppo/public_html/subscription/index.php on line 104
+[08-Aug-2024 18:38:07 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[08-Aug-2024 18:38:10 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[08-Aug-2024 18:38:14 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:38:14 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:38:14 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 141
+[08-Aug-2024 18:38:14 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 146
+[08-Aug-2024 18:38:14 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 154
+[08-Aug-2024 18:38:14 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 159
+[08-Aug-2024 18:38:14 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 166
+[08-Aug-2024 18:38:14 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 171
+[08-Aug-2024 18:38:14 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 178
+[08-Aug-2024 18:38:14 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 183
+[08-Aug-2024 18:38:35 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:38:35 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:38:35 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 141
+[08-Aug-2024 18:38:35 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 146
+[08-Aug-2024 18:38:35 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 154
+[08-Aug-2024 18:38:35 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 159
+[08-Aug-2024 18:38:35 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 166
+[08-Aug-2024 18:38:35 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 171
+[08-Aug-2024 18:38:35 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 178
+[08-Aug-2024 18:38:35 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 183
+[08-Aug-2024 18:39:10 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[08-Aug-2024 18:39:10 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 121
+[08-Aug-2024 18:39:23 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:39:23 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:39:23 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 142
+[08-Aug-2024 18:39:23 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 147
+[08-Aug-2024 18:39:23 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 155
+[08-Aug-2024 18:39:23 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 160
+[08-Aug-2024 18:39:23 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 167
+[08-Aug-2024 18:39:23 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 172
+[08-Aug-2024 18:39:23 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 179
+[08-Aug-2024 18:39:23 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 184
+[08-Aug-2024 18:40:31 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:40:31 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:40:31 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 142
+[08-Aug-2024 18:40:31 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 147
+[08-Aug-2024 18:40:31 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 155
+[08-Aug-2024 18:40:31 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 160
+[08-Aug-2024 18:40:31 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 167
+[08-Aug-2024 18:40:31 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 172
+[08-Aug-2024 18:40:31 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 179
+[08-Aug-2024 18:40:31 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 184
+[08-Aug-2024 18:40:36 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:40:36 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:40:36 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 142
+[08-Aug-2024 18:40:36 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 147
+[08-Aug-2024 18:40:36 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 155
+[08-Aug-2024 18:40:36 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 160
+[08-Aug-2024 18:40:36 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 167
+[08-Aug-2024 18:40:36 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 172
+[08-Aug-2024 18:40:36 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 179
+[08-Aug-2024 18:40:36 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 184
+[08-Aug-2024 18:40:59 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[08-Aug-2024 18:40:59 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 121
+[08-Aug-2024 18:41:03 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[08-Aug-2024 18:41:03 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[08-Aug-2024 18:41:03 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 142
+[08-Aug-2024 18:41:03 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 147
+[08-Aug-2024 18:41:03 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 155
+[08-Aug-2024 18:41:03 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 160
+[08-Aug-2024 18:41:03 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 167
+[08-Aug-2024 18:41:03 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 172
+[08-Aug-2024 18:41:03 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 179
+[08-Aug-2024 18:41:03 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 184
+[09-Aug-2024 06:08:43 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/15415): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[09-Aug-2024 06:08:43 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[09-Aug-2024 06:08:43 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 142
+[09-Aug-2024 06:08:43 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 147
+[09-Aug-2024 06:08:43 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 155
+[09-Aug-2024 06:08:43 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 160
+[09-Aug-2024 06:08:43 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 06:08:43 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 172
+[09-Aug-2024 06:08:43 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 179
+[09-Aug-2024 06:08:43 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 184
+[09-Aug-2024 06:08:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 06:08:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 121
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 142
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Trying to get property 'AdmissionFormNo' of non-object in /home/websuppo/public_html/subscription/index.php on line 142
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 147
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/index.php on line 147
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 155
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Trying to get property 'FullName' of non-object in /home/websuppo/public_html/subscription/index.php on line 155
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 160
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Trying to get property 'FathersName' of non-object in /home/websuppo/public_html/subscription/index.php on line 160
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Trying to get property 'AdmissionYear' of non-object in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 172
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Trying to get property 'ClassName' of non-object in /home/websuppo/public_html/subscription/index.php on line 172
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 179
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Trying to get property 'GroupName' of non-object in /home/websuppo/public_html/subscription/index.php on line 179
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 184
+[09-Aug-2024 06:09:26 UTC] PHP Notice:  Trying to get property 'Mobile' of non-object in /home/websuppo/public_html/subscription/index.php on line 184
+[09-Aug-2024 06:12:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 06:13:01 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/15415): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[09-Aug-2024 06:13:01 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[09-Aug-2024 06:13:32 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/15415): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[09-Aug-2024 06:13:32 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[09-Aug-2024 06:48:41 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/202206916): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[09-Aug-2024 06:48:41 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[09-Aug-2024 11:19:04 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 11:19:49 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 11:20:28 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:30:06 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:30:11 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:30:17 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:31:30 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:31:35 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:31:58 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:31:59 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:39:46 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:39:53 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:39:55 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:42:23 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:43:14 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:43:21 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:43:55 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:45:08 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:45:17 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:45:24 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 11:48:50 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 11:53:11 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 11:53:11 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 11:53:11 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 11:53:11 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 12:15:45 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:15:52 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 12:15:52 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 12:15:52 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 12:15:52 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 12:15:52 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 12:15:52 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 12:15:52 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 12:15:52 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 12:15:52 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 12:17:30 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:17:52 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 12:17:52 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 12:17:52 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 12:17:52 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 12:19:49 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:19:54 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 12:19:54 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 12:19:54 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 12:19:54 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 12:19:54 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 12:19:54 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 12:19:54 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 12:19:54 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 12:19:54 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 12:21:39 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:21:46 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 12:21:46 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 12:21:46 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 12:21:46 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 12:21:46 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 12:21:46 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 12:21:46 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 12:21:46 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 12:21:46 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 12:22:06 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:22:12 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 12:22:12 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 12:22:12 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 12:22:12 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 12:22:12 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 12:22:12 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 12:22:12 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 16
+[09-Aug-2024 12:22:12 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 18
+[09-Aug-2024 12:22:12 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 21
+[09-Aug-2024 12:25:07 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:25:14 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 12:25:14 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 12:25:14 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 12:25:14 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 12:25:14 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 12:25:14 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 12:25:14 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 12:25:14 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 12:25:14 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 12:27:47 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:28:00 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:28:06 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 12:28:06 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 12:28:06 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 12:28:06 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 12:28:06 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 12:28:06 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 12:28:06 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 12:28:06 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 12:28:06 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 12:28:15 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:29:51 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 12:29:51 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 12:29:51 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 12:29:51 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 12:29:51 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 12:29:51 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 12:29:51 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 12:29:51 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 12:29:51 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 12:30:00 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:30:24 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 12:30:24 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 12:30:24 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 12:30:24 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 12:30:24 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 12:30:24 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 12:30:24 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 12:30:24 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 12:30:24 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 12:30:32 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 12:55:51 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 13:00:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 13:00:47 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 13:01:50 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 13:02:05 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 13:02:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 13:03:13 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 13:03:47 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 13:04:02 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 13:04:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 13:04:45 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 13:05:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 20
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: ssc_roll in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: stundent_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 28
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 13:06:25 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 13:06:47 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 13:07:32 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 34
+[09-Aug-2024 13:07:32 UTC] PHP Notice:  Undefined index: father_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 17
+[09-Aug-2024 13:07:32 UTC] PHP Notice:  Undefined index: class_name in /home/websuppo/public_html/subscription/OrderTransaction.php on line 19
+[09-Aug-2024 13:07:32 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/OrderTransaction.php on line 22
+[09-Aug-2024 14:19:35 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 14:56:22 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 14:58:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 15:01:09 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 15:03:21 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 15:08:45 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 15:16:28 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 118
+[09-Aug-2024 15:16:37 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 35
+[09-Aug-2024 15:25:05 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 108
+[09-Aug-2024 15:25:22 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 108
+[09-Aug-2024 15:35:50 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 108
+[09-Aug-2024 15:38:30 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 108
+[09-Aug-2024 15:42:38 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 108
+[09-Aug-2024 16:39:19 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:39:19 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:39:19 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:39:19 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[09-Aug-2024 16:39:19 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:39:19 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:39:19 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:39:21 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:39:21 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:39:21 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:39:21 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[09-Aug-2024 16:39:21 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:39:21 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:39:21 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:05 UTC] PHP Warning:  include(/include/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:05 UTC] PHP Warning:  include(/include/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:05 UTC] PHP Warning:  include(): Failed opening '/include/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:05 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[09-Aug-2024 16:40:05 UTC] PHP Warning:  include(/include/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:05 UTC] PHP Warning:  include(/include/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:05 UTC] PHP Warning:  include(): Failed opening '/include/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:07 UTC] PHP Warning:  include(/include/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:07 UTC] PHP Warning:  include(/include/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:07 UTC] PHP Warning:  include(): Failed opening '/include/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:07 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[09-Aug-2024 16:40:07 UTC] PHP Warning:  include(/include/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:07 UTC] PHP Warning:  include(/include/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:07 UTC] PHP Warning:  include(): Failed opening '/include/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:21 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:21 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:21 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:21 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[09-Aug-2024 16:40:21 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:21 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:21 UTC] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:23 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:23 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:23 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:23 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[09-Aug-2024 16:40:23 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:23 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:23 UTC] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:57 UTC] PHP Warning:  include(/common/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:57 UTC] PHP Warning:  include(/common/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:57 UTC] PHP Warning:  include(): Failed opening '/common/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:40:57 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[09-Aug-2024 16:40:57 UTC] PHP Warning:  include(/common/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:57 UTC] PHP Warning:  include(/common/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:40:57 UTC] PHP Warning:  include(): Failed opening '/common/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:41:00 UTC] PHP Warning:  include(/common/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:41:00 UTC] PHP Warning:  include(/common/header.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:41:00 UTC] PHP Warning:  include(): Failed opening '/common/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 16
+[09-Aug-2024 16:41:00 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[09-Aug-2024 16:41:00 UTC] PHP Warning:  include(/common/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:41:00 UTC] PHP Warning:  include(/common/footer.php): failed to open stream: No such file or directory in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:41:00 UTC] PHP Warning:  include(): Failed opening '/common/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/websuppo/public_html/subscription/index.php on line 167
+[09-Aug-2024 16:41:14 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[09-Aug-2024 18:59:18 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[09-Aug-2024 18:59:18 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[09-Aug-2024 18:59:24 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[09-Aug-2024 19:44:22 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[09-Aug-2024 19:45:20 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 35
+[09-Aug-2024 19:53:38 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 03:52:12 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 03:52:14 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 03:52:21 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 03:52:40 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 35
+[10-Aug-2024 03:55:38 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 05:34:19 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 05:34:37 UTC] PHP Notice:  Undefined index: create_date in /home/websuppo/public_html/subscription/checkout_ajax.php on line 35
+[10-Aug-2024 10:15:40 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 10:23:38 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 10:23:38 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 10:23:38 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 10:23:39 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 10:23:42 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 10:23:42 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 10:23:44 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 10:51:07 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 13:09:29 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 13:12:18 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 15:12:30 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 15:20:51 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 15:20:58 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[10-Aug-2024 15:20:58 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[10-Aug-2024 15:31:07 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 15:42:19 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 15:46:15 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 17:17:38 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 17:29:24 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 17:29:31 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[10-Aug-2024 17:29:31 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[10-Aug-2024 17:35:16 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 17:39:20 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 17:53:42 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:00:48 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:05:13 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:08:22 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: amount in /home/websuppo/public_html/subscription/checkout_ajax.php on line 15
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: student_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 21
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: student_class in /home/websuppo/public_html/subscription/checkout_ajax.php on line 22
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/checkout_ajax.php on line 23
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: admission_year in /home/websuppo/public_html/subscription/checkout_ajax.php on line 24
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: fathers_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 25
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: student_mobile in /home/websuppo/public_html/subscription/checkout_ajax.php on line 29
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: category_id in /home/websuppo/public_html/subscription/checkout_ajax.php on line 30
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: group_name in /home/websuppo/public_html/subscription/checkout_ajax.php on line 36
+[10-Aug-2024 18:08:30 UTC] PHP Notice:  Undefined index: class_id in /home/websuppo/public_html/subscription/checkout_ajax.php on line 37
+[10-Aug-2024 18:20:08 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:25:54 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:31:47 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:42:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:42:34 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:43:22 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:47:41 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:49:32 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:57:29 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 18:59:37 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 19:00:16 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 19:00:46 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 19:01:27 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 19:01:51 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/2022069176876): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[10-Aug-2024 19:01:51 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[10-Aug-2024 19:03:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 19:03:08 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/20240805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[10-Aug-2024 19:03:08 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[10-Aug-2024 19:06:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 19:07:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[10-Aug-2024 19:23:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 04:37:48 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 07:54:12 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 09:00:27 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 09:12:08 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 36
+[11-Aug-2024 09:13:01 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 10:47:20 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 12:32:29 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 12:57:47 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 12:59:27 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 12:59:49 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 14:12:01 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 14:59:19 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 14:59:33 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 17:20:13 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 18:21:08 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 18:50:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 18:50:49 UTC] PHP Warning:  file_get_contents(https://islampurcollege.edu.bd/api/student/21219250515): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/websuppo/public_html/subscription/index.php on line 8
+[11-Aug-2024 18:50:49 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 11
+[11-Aug-2024 18:53:53 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 18:55:10 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 18:56:51 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:01:09 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:08:44 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:13:38 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:14:20 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:14:44 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:17:28 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:18:00 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:18:15 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/index.php on line 28
+[11-Aug-2024 19:18:15 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:18:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:20:16 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:20:35 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:21:05 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[11-Aug-2024 19:34:12 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 04:11:50 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 05:30:43 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 05:37:35 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 05:37:45 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 05:48:27 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 05:54:14 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 05:55:34 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 06:01:22 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 06:03:34 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 06:26:39 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 07:14:24 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 35
+[12-Aug-2024 10:26:11 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:26:18 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:26:45 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 39
+[12-Aug-2024 10:26:47 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 39
+[12-Aug-2024 10:29:29 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:29:32 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:29:34 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:29:40 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:30:20 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:30:22 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:30:24 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:30:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:30:56 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:30:58 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:31:47 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:31:49 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:32:01 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:32:05 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:32:12 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:40:31 UTC] PHP Notice:  Undefined variable: admissionNo in /home/websuppo/public_html/subscription/index.php on line 5
+[12-Aug-2024 10:40:32 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 9
+[12-Aug-2024 10:40:38 UTC] PHP Notice:  Undefined variable: admissionNo in /home/websuppo/public_html/subscription/index.php on line 5
+[12-Aug-2024 10:40:39 UTC] PHP Notice:  Trying to get property 'Data' of non-object in /home/websuppo/public_html/subscription/index.php on line 9
+[12-Aug-2024 10:45:18 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:45:20 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:45:40 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:45:43 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:46:14 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:46:19 UTC] PHP Notice:  Undefined index: url_adm_no in /home/websuppo/public_html/subscription/index.php on line 3
+[12-Aug-2024 10:46:19 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/index.php on line 31
+[12-Aug-2024 10:46:19 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:46:24 UTC] PHP Notice:  Undefined index: url_adm_no in /home/websuppo/public_html/subscription/index.php on line 3
+[12-Aug-2024 10:47:45 UTC] PHP Notice:  Undefined index: url_adm_no in /home/websuppo/public_html/subscription/index.php on line 3
+[12-Aug-2024 10:55:44 UTC] PHP Notice:  Undefined index: url_adm_no in /home/websuppo/public_html/subscription/index.php on line 3
+[12-Aug-2024 10:55:44 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/index.php on line 31
+[12-Aug-2024 10:55:44 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:57:39 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:58:22 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:58:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:58:35 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:58:42 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:58:52 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 10:59:20 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 12:14:23 UTC] PHP Notice:  Undefined index: url_adm_no in /home/websuppo/public_html/subscription/index.php on line 3
+[12-Aug-2024 12:14:23 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/index.php on line 31
+[12-Aug-2024 12:14:23 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 12:15:03 UTC] PHP Notice:  Undefined index: url_adm_no in /home/websuppo/public_html/subscription/index.php on line 3
+[12-Aug-2024 12:15:03 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/index.php on line 31
+[12-Aug-2024 12:15:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38
+[12-Aug-2024 12:15:09 UTC] PHP Notice:  Undefined index: url_adm_no in /home/websuppo/public_html/subscription/index.php on line 3
+[12-Aug-2024 14:08:32 UTC] PHP Notice:  Undefined index: url_adm_no in /home/websuppo/public_html/subscription/index.php on line 3
+[12-Aug-2024 14:08:32 UTC] PHP Notice:  Undefined index: admission_no in /home/websuppo/public_html/subscription/index.php on line 31
+[12-Aug-2024 14:08:32 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/index.php on line 38

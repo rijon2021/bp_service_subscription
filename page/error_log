@@ -1,0 +1,64 @@
+[10-Aug-2024 16:01:09 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 35
+[10-Aug-2024 16:02:25 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 35
+[10-Aug-2024 16:02:29 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 35
+[10-Aug-2024 16:02:29 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 35
+[10-Aug-2024 16:02:29 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 35
+[10-Aug-2024 16:40:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[10-Aug-2024 17:16:51 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[10-Aug-2024 17:16:53 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[10-Aug-2024 17:29:23 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[10-Aug-2024 17:32:52 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[10-Aug-2024 19:07:34 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 12:58:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/websuppo/public_html/subscription/db_connection.php on line 9
+[11-Aug-2024 12:58:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/websuppo/public_html/subscription/db_connection.php on line 9
+[11-Aug-2024 12:59:45 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 12:59:47 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 12:59:48 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 12:59:50 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 14:11:03 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 14:59:31 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 14:59:41 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 18:50:42 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 18:53:49 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 18:53:58 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[11-Aug-2024 18:54:06 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[12-Aug-2024 13:46:36 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[12-Aug-2024 17:54:56 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[12-Aug-2024 17:59:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[12-Aug-2024 18:07:54 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[12-Aug-2024 18:07:57 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/page/check-subscription.php on line 66
+[12-Aug-2024 18:09:28 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/page/check-subscription.php on line 66
+[12-Aug-2024 18:09:29 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/page/check-subscription.php on line 66
+[12-Aug-2024 18:09:29 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/page/check-subscription.php on line 66
+[12-Aug-2024 18:09:55 UTC] PHP Notice:  Trying to get property 'ImageName' of non-object in /home/websuppo/public_html/subscription/page/check-subscription.php on line 67
+[12-Aug-2024 18:11:05 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:55 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:58 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:58 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:58 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:58 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:24:58 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[14-Aug-2024 10:25:00 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[15-Aug-2024 05:05:05 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[15-Aug-2024 09:13:56 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[15-Aug-2024 09:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/websuppo/public_html/subscription/page/check-subscription.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websuppo/public_html/subscription/page/check-subscription.php on line 11
+[18-Aug-2024 09:52:29 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[18-Aug-2024 09:54:15 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[18-Aug-2024 09:54:26 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[19-Aug-2024 18:16:57 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[19-Aug-2024 18:23:24 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[20-Aug-2024 14:30:40 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[21-Aug-2024 05:41:41 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[21-Aug-2024 15:20:12 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[21-Aug-2024 15:20:17 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[22-Aug-2024 09:03:50 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[22-Aug-2024 09:04:23 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[22-Aug-2024 13:01:37 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37
+[22-Aug-2024 16:18:41 UTC] PHP Notice:  Undefined variable: user_data in /home/websuppo/public_html/subscription/page/check-subscription.php on line 37

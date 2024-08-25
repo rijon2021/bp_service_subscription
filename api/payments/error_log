@@ -1,0 +1,48 @@
+[10-Aug-2024 03:53:59 UTC] PHP Notice:  Undefined index: class_id in /home/websuppo/public_html/subscription/api/payments/index.php on line 34
+[10-Aug-2024 03:53:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND admission_no=20220691 AND status='success'' at line 1 in /home/websuppo/public_html/subscription/api/payments/index.php:36
+Stack trace:
+#0 /home/websuppo/public_html/subscription/api/payments/index.php(36): PDOStatement->execute()
+#1 /home/websuppo/public_html/subscription/api/payments/index.php(22): handleGet(Object(PDO))
+#2 {main}
+  thrown in /home/websuppo/public_html/subscription/api/payments/index.php on line 36
+[10-Aug-2024 03:54:16 UTC] PHP Notice:  Undefined index: class_id in /home/websuppo/public_html/subscription/api/payments/index.php on line 34
+[10-Aug-2024 03:54:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND admission_no=20220691 AND status='success'' at line 1 in /home/websuppo/public_html/subscription/api/payments/index.php:36
+Stack trace:
+#0 /home/websuppo/public_html/subscription/api/payments/index.php(36): PDOStatement->execute()
+#1 /home/websuppo/public_html/subscription/api/payments/index.php(22): handleGet(Object(PDO))
+#2 {main}
+  thrown in /home/websuppo/public_html/subscription/api/payments/index.php on line 36
+[10-Aug-2024 03:54:40 UTC] PHP Notice:  Undefined index: class_id in /home/websuppo/public_html/subscription/api/payments/index.php on line 34
+[10-Aug-2024 03:54:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND admission_no=20220691 AND status='success'' at line 1 in /home/websuppo/public_html/subscription/api/payments/index.php:36
+Stack trace:
+#0 /home/websuppo/public_html/subscription/api/payments/index.php(36): PDOStatement->execute()
+#1 /home/websuppo/public_html/subscription/api/payments/index.php(22): handleGet(Object(PDO))
+#2 {main}
+  thrown in /home/websuppo/public_html/subscription/api/payments/index.php on line 36
+[10-Aug-2024 09:36:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/websuppo/public_html/subscription/api/payments/index.php on line 39
+[10-Aug-2024 09:36:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/websuppo/public_html/subscription/api/payments/index.php on line 39
+[10-Aug-2024 09:36:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/websuppo/public_html/subscription/api/payments/index.php on line 39
+[10-Aug-2024 09:44:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/websuppo/public_html/subscription/api/payments/index.php on line 41
+[10-Aug-2024 09:44:22 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/websuppo/public_html/subscription/api/payments/index.php on line 41
+[10-Aug-2024 09:44:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/websuppo/public_html/subscription/api/payments/index.php on line 41
+[10-Aug-2024 09:44:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/websuppo/public_html/subscription/api/payments/index.php on line 41
+[10-Aug-2024 09:47:05 UTC] PHP Notice:  Undefined index: status in /home/websuppo/public_html/subscription/api/payments/index.php on line 41
+[10-Aug-2024 09:47:05 UTC] PHP Warning:  json_encode() expects parameter 2 to be int, string given in /home/websuppo/public_html/subscription/api/payments/index.php on line 41
+[10-Aug-2024 10:29:04 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 43
+[10-Aug-2024 10:29:06 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 43
+[10-Aug-2024 10:30:06 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 42
+[10-Aug-2024 10:30:08 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 42
+[10-Aug-2024 10:30:10 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 42
+[10-Aug-2024 10:30:50 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 43
+[10-Aug-2024 10:34:21 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 42
+[10-Aug-2024 10:35:06 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 42
+[10-Aug-2024 10:35:38 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 42
+[10-Aug-2024 10:43:36 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/websuppo/public_html/subscription/api/payments/index.php on line 43
+[10-Aug-2024 10:43:37 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/websuppo/public_html/subscription/api/payments/index.php on line 43
+[10-Aug-2024 10:45:09 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/websuppo/public_html/subscription/api/payments/index.php on line 43
+[10-Aug-2024 10:45:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function parse() in /home/websuppo/public_html/subscription/api/payments/index.php:43
+Stack trace:
+#0 /home/websuppo/public_html/subscription/api/payments/index.php(22): handleGet(Object(PDO))
+#1 {main}
+  thrown in /home/websuppo/public_html/subscription/api/payments/index.php on line 43
+[10-Aug-2024 12:01:35 UTC] PHP Notice:  Array to string conversion in /home/websuppo/public_html/subscription/api/payments/index.php on line 39
