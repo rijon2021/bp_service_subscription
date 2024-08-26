@@ -1,4 +1,5 @@
 <?php
+ $siteURL='http://bp_service_subscription.oo';
  $adminURL='http://bp_service_subscription.oo/admin';
 // if($_SERVER=='http://127.0.0.1'){
     $servername = "localhost";

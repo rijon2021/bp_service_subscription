@@ -1,3 +1,9 @@
+     
+<?php
+//  session_start();
+include_once('../db_connection.php');
+
+?>
      <footer class="my-5 pt-5 text-muted text-center text-small">
             <p class="mb-1">&copy; 2024 WEB SUPPORT BD</p>
             <ul class="list-inline">
@@ -8,7 +14,7 @@
             </ul>
             <div class="row">
                 <h4>We Accept</h4>
-                <img style="width:100%" src="../../assets/images/ssl.webp">
+                <img style="width:100%" src="<?php echo $siteURL; ?>/assets/images/ssl.webp">
             </div>
         </footer>
     </div>
